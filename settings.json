@@ -6,9 +6,9 @@
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
-    "version": "1.17.1"
+    "ip": "REDZCD.aternos.me",
+    "port": 41047,
+    "version": "1.6.4"
   },
 
   "position": {
